@@ -3,8 +3,8 @@
 <h3 align="center">Computer Science Undergraduate</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rhl728&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> </p>
 
-<table align="center">
-<tr border="none">
+<table align="center" border="0">
+<tr border="0">
 <td width="50%" align="left">
   
 - 🌱 I’m currently learning **MERN**
@@ -17,19 +17,11 @@
   
 
 </td>
-
+<td align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rhl728&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
 </tr>
 </table>
-
----
-
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rhl728&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-
 
 ---
 
