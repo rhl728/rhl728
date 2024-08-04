@@ -1,11 +1,14 @@
 <p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 25% height="25%"></p>
 <h1 align="center">Hi 👋, I'm Rahal</h1>
 <h3 align="center">Computer Science Undergraduate</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rhl728&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> </p>
-
+<!--
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=rhl728&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> 
+</p>
+-->
 <table align="center" border="0">
-<tr border="0">
-<td width="50%" align="left">
+<tr >
+<td width="50%" align="left" >
   
 - 🌱 I’m currently learning **MERN**
 
@@ -17,7 +20,7 @@
   
 
 </td>
-<td align="center">
+<td align="center" >
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rhl728&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
@@ -58,4 +61,3 @@
 
 </p>
 
----
