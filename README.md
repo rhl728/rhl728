@@ -30,7 +30,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/rahal-mahawaththe-39453a251" target="blank"><img href="www.linkedin.com/in/rahal-mahawaththe-39453a251" target="blank" align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="rahal" height="50" width="50" /></a>
+<a href="www.linkedin.com/in/rahal-mahawaththe-39453a251" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="rahal" height="50" width="50" /></a>
 <a href="rahalpm@gmail.com" target="blanks"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="50" width="50"/> </a>
   
 </p>
