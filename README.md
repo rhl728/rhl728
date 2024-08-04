@@ -1,16 +1,84 @@
-## Hi there 👋
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<h1 align="center">Hi 👋, I'm Rahal</h1>
+<h3 align="center">Computer Science Undergraduate</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rhl728&label=Profile%20views&color=0e75b6&style=flat" alt="rhl728" /> </p>
 
-<!--
-**rhl728/rhl728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **MERN**
 
-Here are some ideas to get you started:
+- 🧑‍🎓 I’m an Undergraduate at **University of Kelaniya**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **rahalpm@gmail.com**
+  
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rhl728&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rhl728&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rhl728&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="www.linkedin.com/in/rahal-mahawaththe-39453a251" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="rahal" height="50" width="50" /></a>
+<a href="rahalpm@gmail.com" target="blanks"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="50" width="50"/> </a>
+  
+</p>
+
+---
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="50" height="50"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="50" height="50"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="springboot" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="boostrap" width="50" height="50"/>
+
+
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="50" height="50"/>
+
+</p>
+
+---
