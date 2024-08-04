@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 50%></p>
+<p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 25% height="25%"></p>
 <h1 align="center">Hi 👋, I'm Rahal</h1>
 <h3 align="center">Computer Science Undergraduate</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rhl728&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> </p>
@@ -25,21 +25,11 @@
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rhl728&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rhl728&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rhl728&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-  </td>
-</tr>
-</table>
+
 
 ---
 
