@@ -35,6 +35,20 @@
   
 </p>
 -->
+<table>
+  <tr>
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api?username=rhl728&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+    </td>
+   <td>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhl728&theme=tokyonight&hide_border=true">
+   </td>
+ <br/>
+  </tr>
+</table>
+
+
+---
 
 
 <h3 align="center">Languages and Tools:</h3>
