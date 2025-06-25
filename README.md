@@ -14,7 +14,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Kelaniya**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **JavaScript, React, Vue**
 
 - 📫 How to reach me **rahalpm@gmail.com**
   
