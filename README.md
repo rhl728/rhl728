@@ -54,9 +54,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="50" height="50"/>
+
 <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="50" height="50"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50"/>
@@ -65,8 +63,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="50" height="50"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="springboot" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="boostrap" width="50" height="50"/>
+
 
 
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
